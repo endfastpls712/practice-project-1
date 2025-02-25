@@ -1,2 +1,6 @@
 @import "tailwindcss";
 
+button.primary {
+    background-color: #f5385d;
+    cursor: pointer;
+}
